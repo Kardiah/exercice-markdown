@@ -14,7 +14,7 @@ Voici un mot *important* à mon sens
 
 Emphase forte (gras)
 
-Voici des mots **très importants**, j'insiste !
+Voici des mots ****très importants****, j'insiste !
 
 Les titres
 
