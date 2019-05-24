@@ -1,6 +1,5 @@
-# Ma première journée à BeCode
 
-# First day at Becode
+# First day at Becode : Bridge
 
 * Les plus :
 
@@ -20,7 +19,7 @@ vos prédécesseurs et aussi un précieuse ressources d'aide
 
   * __Je cherche :__ Encore..encore et encore...
 
-# Ma première journée à BeCode
+# Ma première journée à BeCode : Pierre
 
 À l'instar de toutes __nouvelles expériences__, cette première journée chez *BeCode* fut un grand et beau moment.
 Stress, excitation, ~~érect#^%~~ et empressement. Une page qui se tourne est toujours pleine d'émotion :innocent:.
@@ -48,6 +47,8 @@ _________________________________________________________________
 Malgré ma maladie, tout va *" bien "* pour la formation , je ~~pense que je~~ m'entend bien avec tout le groupe, même si je n'ai pas encore eu l'occasion de parler avec chacun d'entre eux. **Leny est super sympa** et compréhensif avec moi vis à vis de ma maladie , et sa m'aide **énormément** à garder confiance en moi et à avancer.
 
 _________________________________________________________________
+
+# Ma première journée à BeCode : Gaetan
 
 1. La présentation
 2. Le Groupe
