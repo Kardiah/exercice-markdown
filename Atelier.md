@@ -6,3 +6,6 @@ Ma journée c'est extrémement __bien/mal__ passée.
 
 
 
+|
+|
+|
