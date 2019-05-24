@@ -7,16 +7,16 @@ Ceci est un paragraphe de texte.
 
 Ceci est un autre paragraphe de texte !
 
-Emphase (gras, italique…)
-Emphase faible (italique)
+## Emphase (gras, italique…)
+##### Emphase faible (italique)
 
 ```Voici un mot *important* à mon sens```
 
-Emphase forte (gras)
+##### Emphase forte (gras)
 
 ```Voici des mots **très importants**, j'insiste !```
 
-Les titres
+## Les titres
 
 ```# Titre de niveau 1```
 
@@ -26,8 +26,8 @@ Les titres
 
 ```### Titre de niveau 3```
 
-Les listes
-Les listes à puces
+## Les listes
+##### Les listes à puces
 
 ```* Une puce```
 
@@ -35,7 +35,7 @@ Les listes à puces
 
 ```* Et encore une autre puce !```
 
-Les listes à puces numérotées
+##### Les listes à puces numérotées
 
 ```1. Et de un```
 
@@ -43,7 +43,7 @@ Les listes à puces numérotées
 
 ```3. Et de trois```
 
-Les citations
+##### Les citations
 
 ```> Ceci est un texte cité. Vous pouvez répondre```
 
@@ -51,8 +51,8 @@ Les citations
 
 ```> normal juste en-dessous !```
 
-Codes source
-Bloc de code
+## Codes source
+##### Bloc de code
 
 Voici un code en C :
 
@@ -67,26 +67,20 @@ Voici un code en C :
 
     }
 
-Code en ligne
+## Code en ligne
 
 La fonction `printf()` permet d'afficher du texte
 
-Les liens
+##### Les liens
 
 ```Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !```
 
-Les images
+##### Les images
 
 ```![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)```
 
-Barre de séparation
+##### Barre de séparation
 
------------------
+```-----------------```
 
-    #
 
-Vous ne pouvez pas encore obtenir de certificat de réussite à l'issue de ce cours.
-Créé par
-logo OpenClassrooms
-
-OpenClassrooms, Leading E-Learning Platform in Europe
