@@ -48,10 +48,12 @@ _________________________________________________________________
 Malgré ma maladie, tout va *" bien "* pour la formation , je ~~pense que je~~ m'entend bien avec tout le groupe, même si je n'ai pas encore eu l'occasion de parler avec chacun d'entre eux. **Leny est super sympa** et compréhensif avec moi vis à vis de ma maladie , et sa m'aide **énormément** à garder confiance en moi et à avancer.
 
 _________________________________________________________________
+# Ma première journée chez BeCode
 
 1. La présentation
 2. Le Groupe
 3. Conclusion
+
 
 1. La présentation
 
@@ -73,5 +75,5 @@ Je suis ravi d'être junior chez BeCode et malgré mon manque d'expérience dans
 
 Vous-pouvez vous inscrire sur :
 
-http://becode.org - automatic!
+http://becode.org
 [GitHub](http://becode.org)
