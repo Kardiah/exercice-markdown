@@ -1,4 +1,4 @@
-#Première journée à Becode
+# Première journée à Becode : Dylan
 
 je suis agréablement surpris de la pédagogie qui est adopté par becode.
 j'ai eu beaucoup de galères à apprendre .git mais au fil temp petit a petit
