@@ -1,6 +1,14 @@
 #Première journée à Becode
 
-<<<<<<< HEAD
+je suis agréablement surpris de la pédagogie qui est adopté par becode.
+j'ai eu beaucoup de galères à apprendre .git mais au fil temp petit a petit
+ca a fini par rentrer doucement mais sûrement.
+
+Points positive | Points négative
+----------------|----------------
+pédagogie | -
+convivial | -
+
 # First day at Becode : Bridge
 
 * Les plus :
@@ -78,13 +86,3 @@ Vous-pouvez vous inscrire sur :
 
 http://becode.org - automatic!
 [GitHub](http://becode.org)
-=======
-je suis agréablements surpris de la pédagogie qui est adopté par becode.
-j'ai ue beaucouq de galères à apprentre .git mais au fil temp petit a petit
-sa a fini par rentré doucement mais sûrement.
-
-Points positive | Points négative
-----------------|----------------
-pédagogie | -
-convivial | -
->>>>>>> dylan
