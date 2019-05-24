@@ -1,4 +1,4 @@
-#Les paragraphes
+# Les paragraphes
 
 Commençons par le plus simple : les paragraphes de texte. Vous devez séparer votre texte par des lignes vides pour créer des paragraphes. C'est très intuitif, regardez :
 
@@ -29,7 +29,7 @@ Ligne juste en-dessous
 
 Heureusement, certains sites (comme le Site du Zéro) utilisent une version modifiée de Markdown (appelée Sundown) qui autorise ces retours à la ligne simples.
 
-#Emphase (gras, italique…)
+# Emphase (gras, italique…)
 Pour faire de l'emphase, c'est-à-dire de la mise en valeur, il vous suffit d'entourer les mots de votre choix entre des étoiles * ou des traits de soulignement _ (au choix, le résultat est le même). Il y a deux types d'emphase : l'emphase faible (généralement affichée en italique) et l'emphase forte (généralement affichée en gras).
 
 Emphase faible (italique)
@@ -60,7 +60,7 @@ Résultat :
 <p>Voici des mots <strong>très importants</strong>, j'insiste !</p>
 ```
 
-#Les titres
+# Les titres
 
 Il y a plusieurs façons d'écrire des titres en Markdown. Voici la première syntaxe possible :
 
@@ -92,7 +92,7 @@ Il existe aussi une autre syntaxe pour les titres qui vous permet même de faire
 ### Titre de niveau 3
 ```
 
-#Les listes
+# Les listes
 
 Créer des listes en Markdown est un vrai bonheur, vous allez voir qu'il n'y a rien de plus simple ! Comme vous le savez sûrement, il existe deux types de listes : les listes à puces et les listes numérotées.
 
@@ -144,7 +144,7 @@ Pour créer une liste numérotée, c'est très intuitif : il suffit de commencer
 </ol>
 ```
 
-#Les citations
+# Les citations
 
 Les citations fonctionnent comme les réponses des e-mails : vous devez précéder les lignes citées d'un chevron «> »!
 
@@ -173,7 +173,7 @@ Sachez que vous pouvez imbriquer des citations et du Markdown à l'intérieur de
 > > * Autre puce
 ```
 
-#Codes source
+# Codes source
 
 *Bloc de code*
 
