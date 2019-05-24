@@ -88,7 +88,7 @@ La fonction `printf()` permet d'afficher du texte
 ```-----------------```
 
 
-# Utiliser MarkDown sur son site
+# Syntaxe de Markdown
 
 
 Quand vous écrivez en Markdown, vous utilisez des notations raccourcies qui sont remplacées par les balises HTML correspondantes. Nous allons découvrir la plupart de ces notations raccourcies ici. À chaque fois, je vous indiquerai l'équivalent HTML de la notation Markdown. :smiley:
