@@ -1,3 +1,5 @@
+_________________________________________________________________
+
 # Ma premiere journée à Becode
 
 ### Fabian
@@ -12,3 +14,5 @@
 #### Conclusion:
 
 Malgré ma maladie, tout va *" bien "* pour la formation , je ~~pense que je~~ m'entend bien avec tout le groupe, même si je n'ai pas encore eu l'occasion de parler avec chacun d'entre eux. **Leny est super sympa** et compréhensif avec moi vis à vis de ma maladie , et sa m'aide **énormément** à garder confiance en moi et à avancer.
+
+_________________________________________________________________
