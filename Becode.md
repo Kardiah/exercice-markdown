@@ -18,9 +18,9 @@ Ceci est un autre paragraphe de texte !
 ```
 Cela aura pour effet de traduire le texte en HTML, comme ceci :
 ```
-<**p**>Ceci est un paragraphe de texte.</**p**>
+<p>Ceci est un paragraphe de texte.</p>
 
-<**p**>Ceci est un autre paragraphe de texte !</**p**>
+<p>Ceci est un autre paragraphe de texte !</p>
 ```
 Normalement, vous ne pouvez pas faire de retour à la ligne simple en Markdown au sein d'un paragraphe :
 ```
@@ -225,6 +225,7 @@ Vous venez d'avoir une bonne vue d'ensemble du Markdown et vous connaissez maint
 Vous trouverez toutes les informations concernant le langage sur :
 
 [Le site officiel de Markdown](https://daringfireball.net/projects/markdown/syntax)
+
 [Cette traduction en français](https://michelf.ca/projets/php-markdown/syntaxe/)
 
 >Et si ce que je veux faire n'est pas possible en Markdown ? :(
