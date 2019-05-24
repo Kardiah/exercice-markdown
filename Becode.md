@@ -1,9 +1,11 @@
+# Memento du Markdown
 
 Voici un petit condensé de la syntaxe du Markdown pour vous servir de fiche-mémoire. :)
 Quand il y avait plusieurs syntaxes possibles, j'ai volontairement choisi seulement l'une d'elles pour que cette feuille soit plus facile à lire.
-Paragraphes
 
-```md
+##### Paragraphes
+
+```markdown
 Ceci est un paragraphe de texte.
 
 Ceci est un autre paragraphe de texte !
