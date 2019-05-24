@@ -1,4 +1,4 @@
-# First day at Becode#
+# First day at Becode
 
 * Les plus :
 
@@ -16,4 +16,4 @@ vos prédécesseurs et aussi un précieuse ressources d'aide
 
 * Les moins :
 
-  * **Je cherche :**
+  * __Je cherche :__ Encore..encore et encore...
