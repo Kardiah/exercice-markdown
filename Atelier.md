@@ -1,3 +1,5 @@
+--------------------
+
 # Première journée à Becode : Dylan
 
 je suis agréablement surpris de la pédagogie qui est adopté par becode.
@@ -8,6 +10,8 @@ Points positive | Points négative
 ----------------|----------------
 pédagogie | -
 convivial | -
+
+-----------------------
 
 # First day at Becode : Bridge
 
@@ -28,6 +32,8 @@ vos prédécesseurs et aussi un précieuse ressources d'aide
 * Les moins :
 
   * __Je cherche :__ Encore..encore et encore...
+  
+  ----------------------------------------
 
 # Ma première journée à BeCode : Pierre
 
@@ -39,7 +45,7 @@ Mes espoirs | Mes craintes
 Devenir un programmeur accompli | Prendre du retard
 Achever ma famille à coup de jalousie | Ne pas être à ma place
 
-_________________________________________________________________
+---------------------
 
 # Ma premiere journée à Becode
 
@@ -56,7 +62,7 @@ _________________________________________________________________
 
 Malgré ma maladie, tout va *" bien "* pour la formation , je ~~pense que je~~ m'entend bien avec tout le groupe, même si je n'ai pas encore eu l'occasion de parler avec chacun d'entre eux. **Leny est super sympa** et compréhensif avec moi vis à vis de ma maladie , et sa m'aide **énormément** à garder confiance en moi et à avancer.
 
-_________________________________________________________________
+--------------------------
 
 # Ma première journée à BeCode : Gaetan
 
@@ -86,3 +92,5 @@ Vous-pouvez vous inscrire sur :
 
 http://becode.org - automatic!
 [GitHub](http://becode.org)
+
+-----------------------
