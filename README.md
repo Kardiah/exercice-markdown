@@ -1,5 +1,4 @@
-# exercice-markdown
-
+------------
 ## Travail de groupe créé par :
 * [ValdenBE](https://github.com/ValdenBE)
 * [Kardiah](https://github.com/Kardiah)
@@ -18,3 +17,4 @@
 3. [Ressenti premier jour : Pierre](https://github.com/Kardiah/exercice-markdown/blob/master/Atelier.md#ma-premi%C3%A8re-journ%C3%A9e-%C3%A0-becode--pierre)
 4. [Ressenti premier jour : Fabian](https://github.com/Kardiah/exercice-markdown/blob/master/Atelier.md#ma-premiere-journ%C3%A9e-%C3%A0-becode)
 5. [Ressenti premier jour : Gaetan](https://github.com/Kardiah/exercice-markdown/blob/master/Atelier.md#ma-premi%C3%A8re-journ%C3%A9e-%C3%A0-becode--gaetan)
+------------
