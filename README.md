@@ -1,5 +1,8 @@
 # exercice-markdown
 
+## Travail de groupe créé par :
+* @ValdenBE
+
 ## Le Markdown
 * [A la découverte du Markdown](https://github.com/Kardiah/exercice-markdown/blob/master/Becode.md#r%C3%A9digez-en-markdown-)
 
